@@ -1,3 +1,4 @@
 Searching algorithms along with coding program examples
 
 1:- A simple binary search algorithm coding.
+2:- Ceiling of a no. using binary search algorithm is implemented.
