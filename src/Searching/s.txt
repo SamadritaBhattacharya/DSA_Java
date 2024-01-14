@@ -1,1 +1,3 @@
 Searching algorithms along with coding program examples
+
+1:- A simple binary search algorithm coding.

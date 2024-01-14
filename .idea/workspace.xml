@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5152350-881a-4ce8-89a1-a74b6df8bbf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA_Java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA_Java/Searching/s.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA_Java/Searching/s.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Searching/s.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Searching/s.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,20 @@
       <recent name="C:\Users\ASPIRE 3\IdeaProjects\DSA_Java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Searching.BinarySearch.BinSearch">
+  <component name="RunManager" selected="Application.Ceiling">
+    <configuration name="Ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.BinarySearch.Ceiling" />
+      <module name="DSA_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Searching.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Linear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Linear" />
       <module name="DSA_Java" />
@@ -80,12 +94,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Ceiling" />
       <item itemvalue="Application.Linear" />
       <item itemvalue="Application.Searching.BinarySearch.BinSearch" />
       <item itemvalue="Java Scratch.See" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ceiling" />
         <item itemvalue="Application.Searching.BinarySearch.BinSearch" />
         <item itemvalue="Application.Linear" />
       </list>
