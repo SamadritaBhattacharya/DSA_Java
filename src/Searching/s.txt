@@ -3,4 +3,4 @@ Searching algorithms along with coding program examples
 1:- A simple binary search algorithm coding.
 2:- Ceiling of a no. using binary search algorithm is implemented.
 3:- finding the Smallest letter greater than the target
-4:- Fonding the first and last occurence of a repetitive digit in an array.
+4:- Finding the first and last occurence of a repetitive digit in an array.
