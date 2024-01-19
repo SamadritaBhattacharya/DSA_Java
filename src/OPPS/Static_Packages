@@ -16,5 +16,10 @@ NOTES
     The term static must be mentioned. It shares only one single cpy of value for the whole class and shared by the
     objects of that class which remains constant throughout the program.
     They are also known as Class Variables as they can be accessed directly using the classname.
-    Static methods can acess only static variables.
+    Static methods can acess only static variables. They are resolved during compile time.
+
+4. INSTANCE VARIABLES:-
+    It shares different values for each objects of its class.
+    They are also known as non-static variables.
+    Instance methods can access both static as well as non-static members.
 
