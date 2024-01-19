@@ -1,0 +1,7 @@
+NOTES
+
+1. PACKAGES:-
+    containers or folders of group of classes, interfaces or sub-packages. It means defining the module in Java.
+    Classes within a package can share their data members and member methods using the default access specifier.
+    Provides access protection.
+    It can be of 2 types: (1) PDP/SDP [java.lang], (2) UDP [package global]
