@@ -5,3 +5,10 @@ NOTES
     Classes within a package can share their data members and member methods using the default access specifier.
     Provides access protection.
     It can be of 2 types: (1) PDP/SDP [java.lang], (2) UDP [package global]
+
+2. STATIC:-
+    no object creation is needed. Direct access using class name. It can be accessed before creating any object of the
+    class and without referencing to that object. static method can only access static data. It only runs once when the
+    first object is created (instantiation). Resolved during compile time because they do not need to deal with objects.
+    That's why the main method is always declared to be static.
+
