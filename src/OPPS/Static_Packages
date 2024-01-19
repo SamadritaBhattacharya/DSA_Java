@@ -25,6 +25,11 @@ NOTES
 
 
 5. SINGLETON CLASSES:
-    creates only one object. That means no constructors can be used.
-    So, we make the constructor private, as constructor creates objects and are called during
-     the object creation of class.
+    creates only one object ie, only one instance of itself exists.
+    That means no constructors can be used.
+    So, we make the constructor private, as constructor creates objects and are
+    called during the object creation of class.
+    Its purpose is to control object creation, limiting the number to one but
+    allowing the flexibility to create more objects if the situation changes.
+
+
