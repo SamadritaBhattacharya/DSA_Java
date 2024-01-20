@@ -1,0 +1,35 @@
+NOTES
+
+1. PACKAGES:-
+    containers or folders of group of classes, interfaces or sub-packages. It means defining the module in Java.
+    Classes within a package can share their data members and member methods using the default access specifier.
+    Provides access protection.
+    It can be of 2 types: (1) PDP/SDP [java.lang], (2) UDP [package global]
+
+2. STATIC:-
+    no object creation is needed. Direct access using class name. It can be accessed before creating any object of
+    the class and without referencing to that object. static method can only access static data. It only runs once
+    when the first object is created (instantiation). Resolved during compile time because they do not need to deal
+    with objects.That's why the main method is always declared to be static.
+
+3. STATIC VARIABLES:-
+    The term static must be mentioned. It shares only one single cpy of value for the whole class and shared by the
+    objects of that class which remains constant throughout the program.
+    They are also known as Class Variables as they can be accessed directly using the classname.
+    Static methods can access only static variables. They are resolved during compile time.
+
+4. INSTANCE VARIABLES:-
+    It shares different values for each objects of its class.
+    They are also known as non-static variables.
+    Instance methods can access both static as well as non-static members.
+
+
+5. SINGLETON CLASSES:
+    creates only one object ie, only one instance of itself exists.
+    That means no constructors can be used.
+    So, we make the constructor private, as constructor creates objects and are
+    called during the object creation of class.
+    Its purpose is to control object creation, limiting the number to one but
+    allowing the flexibility to create more objects if the situation changes.
+
+
